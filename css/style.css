@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #363636;
+    padding: 26px 0 32px 0;
+    text-align: center;
+}
+.menu-item{
+    display: inline-block;
+    vertical-align: middle;
+    margin:0 25.5px;
+}
+.menu-item a{
+    font-size: 15px;
+letter-spacing: 0px;
+line-height: 1;
+color: #ffffff;
+text-decoration: none;
+}
+.main{
+    padding: 102px 0 145px 0;
+   
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.main-info{
+    display: inline-block;
+    max-width: 524px;
+    vertical-align: middle;
+    margin-right: 190px;
+}
+.main h1{
+    font-size: 45px;
+line-height: 55px;
+color: #363636;
+font-weight: bold;
+margin-bottom: 50px;
+}
+.main-text{
+font-size: 17px;
+letter-spacing: 0px;
+line-height: 25px;
+color: #392703;
+max-width: 420px;
+margin-bottom: 97px;
+}
+.button{
+    width: 232px;
+    font-size: 17px;
+color: #ffffff;
+font-weight: bold;
+text-align: center;
+padding:22px ;
+background-color: #aaccdc;
+cursor: pointer;
+}
+.main-image{
+    display: inline-block;
+}
+.main .container{
+    font-size: 0;
+}
+.about{
+    background-color: #b99d7f;
+    padding: 130px 0 143px 0;
+}
+.about h2{
+    font-size: 45px;
+color: #ffffff;
+font-weight: bold;
+text-align: center;
+margin-bottom: 63px;
+}
+.about-items{
+    margin-left: -47px;
+    margin-right: -47px;
+    font-size: 0;
+}
+
+.about-item-text{
+    vertical-align: middle;
+    font-size: 17px;
+letter-spacing: 0px;
+line-height: 25px;
+color: #ffffff;
+display: inline-block;
+margin-left: 15px;
+width: 220px;
+
+}
+.about-item-image{
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.about-item{
+    max-width: 338px;
+    margin: 27px 47px;
+    display: inline-block;
+}
+.footer{
+    background-color: #363636;
+    padding: 30px 0 33px 0;
+    font-size: 18px;
+    color: #ffffff;
+}
+.footer-time{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 295px;
+}
+.footer-logo{
+    display: inline-block;
+    vertical-align: middle;
+}
+.footer-phones{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 289px;
+}
